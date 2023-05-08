@@ -4,3 +4,11 @@
  -Evolutivo 
  -Espiral 
  -Prototipos
+ 
+ METODOLOGIAS AGILES 
+- Método Scrum.
+- Método Lean.
+- Extreme Programming XP.
+- Método Kanban.
+- Agile Inception.
+- Design Sprint.
